@@ -2,6 +2,7 @@
   "name": "ymigration",
   "private": true,
   "version": "0.0.0",
+  "license": "AGPL-3.0-or-later",
   "type": "module",
   "scripts": {
     "dev": "concurrently -n api,web -c blue,green \"npm run dev:server\" \"npm run dev:client\"",

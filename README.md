@@ -90,3 +90,15 @@ Les tracés suivent le type de transport via `GET /api/route` : routes terrestre
 
 - Front : Vite, React, TypeScript, Leaflet
 - Back : Express, SQLite (better-sqlite3)
+
+## Licence
+
+Copyright © 2026 Yoan POUZET.
+
+Ce projet est distribué sous licence [GNU Affero General Public License v3.0](LICENSE) (AGPL-3.0). Vous pouvez le redistribuer et le modifier selon les termes de cette licence. Si vous hébergez une version modifiée accessible sur un réseau, vous devez mettre le code source correspondant à disposition de ses utilisateurs.
+
+### Attributions tierces
+
+- Cartes : [OpenStreetMap](https://www.openstreetmap.org/copyright) (© contributeurs OSM)
+- Géocodage : [Nominatim](https://nominatim.openstreetmap.org)
+- Bibliothèque cartographique : [Leaflet](https://leafletjs.com/) (BSD-2-Clause)
