@@ -18,6 +18,16 @@ export function AppLayout() {
           <div>
             <h1 className="app__title">yMigration</h1>
             <p className="app__subtitle">Visualisez un parcours migratoire</p>
+            <p className="app__credit">
+              <a
+                href="https://yoanpouzet.fr"
+                className="app__credit-link"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                yoanpouzet.fr
+              </a>
+            </p>
           </div>
           <nav className="app__nav" aria-label="Navigation principale">
             <Link to="/" className={navClass(isMap)}>
