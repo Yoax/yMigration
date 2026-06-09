@@ -1,0 +1,194 @@
+{
+  "migrations": [
+    {
+      "id": "antonio-saragosse-perpignan",
+      "label": "Antonio",
+      "year": 1852,
+      "transport": "marche",
+      "branch": "Branche ibérique",
+      "from": { "name": "Saragosse, Espagne", "lat": 41.6488, "lng": -0.8891 },
+      "to": { "name": "Perpignan, France", "lat": 42.6887, "lng": 2.8948 },
+      "notes": "Départ du village — données fictives de démonstration"
+    },
+    {
+      "id": "antonio-perpignan-marseille",
+      "label": "Antonio",
+      "year": 1858,
+      "transport": "train",
+      "branch": "Branche ibérique",
+      "from": { "name": "Perpignan, France", "lat": 42.6887, "lng": 2.8948 },
+      "to": { "name": "Marseille, France", "lat": 43.2965, "lng": 5.3698 }
+    },
+    {
+      "id": "antonio-marseille-buenos-aires",
+      "label": "Antonio",
+      "year": 1862,
+      "transport": "bateau",
+      "branch": "Branche ibérique",
+      "from": { "name": "Marseille, France", "lat": 43.2965, "lng": 5.3698 },
+      "to": { "name": "Buenos Aires, Argentine", "lat": -34.6037, "lng": -58.3816 }
+    },
+    {
+      "id": "elena-palerme-naples",
+      "label": "Elena",
+      "year": 1898,
+      "transport": "marche",
+      "branch": "Branche méditerranéenne",
+      "from": { "name": "Palerme, Italie", "lat": 38.1157, "lng": 13.3615 },
+      "to": { "name": "Naples, Italie", "lat": 40.8518, "lng": 14.2681 }
+    },
+    {
+      "id": "elena-naples-new-york",
+      "label": "Elena",
+      "year": 1904,
+      "transport": "bateau",
+      "branch": "Branche méditerranéenne",
+      "from": { "name": "Naples, Italie", "lat": 40.8518, "lng": 14.2681 },
+      "to": { "name": "New York, États-Unis", "lat": 40.7128, "lng": -74.006 }
+    },
+    {
+      "id": "elena-new-york-chicago",
+      "label": "Elena",
+      "year": 1912,
+      "transport": "train",
+      "branch": "Branche méditerranéenne",
+      "from": { "name": "New York, États-Unis", "lat": 40.7128, "lng": -74.006 },
+      "to": { "name": "Chicago, États-Unis", "lat": 41.8781, "lng": -87.6298 }
+    },
+    {
+      "id": "hiroshi-tokyo-san-francisco",
+      "label": "Hiroshi",
+      "year": 1962,
+      "transport": "avion",
+      "branch": "Branche pacifique",
+      "from": { "name": "Tokyo, Japon", "lat": 35.6762, "lng": 139.6503 },
+      "to": { "name": "San Francisco, États-Unis", "lat": 37.7749, "lng": -122.4194 }
+    },
+    {
+      "id": "hiroshi-san-francisco-sao-paulo",
+      "label": "Hiroshi",
+      "year": 1978,
+      "transport": "avion",
+      "branch": "Branche pacifique",
+      "from": { "name": "San Francisco, États-Unis", "lat": 37.7749, "lng": -122.4194 },
+      "to": { "name": "São Paulo, Brésil", "lat": -23.5505, "lng": -46.6333 }
+    },
+    {
+      "id": "hiroshi-sao-paulo-lisbonne",
+      "label": "Hiroshi",
+      "year": 1995,
+      "transport": "avion",
+      "branch": "Branche pacifique",
+      "from": { "name": "São Paulo, Brésil", "lat": -23.5505, "lng": -46.6333 },
+      "to": { "name": "Lisbonne, Portugal", "lat": 38.7223, "lng": -9.1393 }
+    },
+    {
+      "id": "amara-lagos-paris",
+      "label": "Amara",
+      "year": 1975,
+      "transport": "avion",
+      "branch": "Branche africaine",
+      "from": { "name": "Lagos, Nigeria", "lat": 6.5244, "lng": 3.3792 },
+      "to": { "name": "Paris, France", "lat": 48.8566, "lng": 2.3522 }
+    },
+    {
+      "id": "amara-paris-montreal",
+      "label": "Amara",
+      "year": 1988,
+      "transport": "avion",
+      "branch": "Branche africaine",
+      "from": { "name": "Paris, France", "lat": 48.8566, "lng": 2.3522 },
+      "to": { "name": "Montréal, Canada", "lat": 45.5017, "lng": -73.5673 }
+    },
+    {
+      "id": "amara-montreal-mexico",
+      "label": "Amara",
+      "year": 2003,
+      "transport": "avion",
+      "branch": "Branche africaine",
+      "from": { "name": "Montréal, Canada", "lat": 45.5017, "lng": -73.5673 },
+      "to": { "name": "Mexico, Mexique", "lat": 19.4326, "lng": -99.1332 }
+    },
+    {
+      "id": "lucas-sydney-singapour",
+      "label": "Lucas",
+      "year": 1992,
+      "transport": "avion",
+      "branch": "Branche océanienne",
+      "from": { "name": "Sydney, Australie", "lat": -33.8688, "lng": 151.2093 },
+      "to": { "name": "Singapour", "lat": 1.3521, "lng": 103.8198 }
+    },
+    {
+      "id": "lucas-singapour-le-caire",
+      "label": "Lucas",
+      "year": 2001,
+      "transport": "avion",
+      "branch": "Branche océanienne",
+      "from": { "name": "Singapour", "lat": 1.3521, "lng": 103.8198 },
+      "to": { "name": "Le Caire, Égypte", "lat": 30.0444, "lng": 31.2357 }
+    },
+    {
+      "id": "lucas-le-caire-le-cap",
+      "label": "Lucas",
+      "year": 2010,
+      "transport": "avion",
+      "branch": "Branche océanienne",
+      "from": { "name": "Le Caire, Égypte", "lat": 30.0444, "lng": 31.2357 },
+      "to": { "name": "Le Cap, Afrique du Sud", "lat": -33.9249, "lng": 18.4241 }
+    },
+    {
+      "id": "sofia-helsinki-stockholm",
+      "label": "Sofia",
+      "year": 1944,
+      "transport": "train",
+      "branch": "Branche nordique",
+      "from": { "name": "Helsinki, Finlande", "lat": 60.1699, "lng": 24.9384 },
+      "to": { "name": "Stockholm, Suède", "lat": 59.3293, "lng": 18.0686 }
+    },
+    {
+      "id": "sofia-stockholm-londres",
+      "label": "Sofia",
+      "year": 1955,
+      "transport": "bateau",
+      "branch": "Branche nordique",
+      "from": { "name": "Stockholm, Suède", "lat": 59.3293, "lng": 18.0686 },
+      "to": { "name": "Londres, Royaume-Uni", "lat": 51.5074, "lng": -0.1278 }
+    },
+    {
+      "id": "sofia-londres-dublin",
+      "label": "Sofia",
+      "year": 1968,
+      "transport": "voiture",
+      "branch": "Branche nordique",
+      "from": { "name": "Londres, Royaume-Uni", "lat": 51.5074, "lng": -0.1278 },
+      "to": { "name": "Dublin, Irlande", "lat": 53.3498, "lng": -6.2603 }
+    },
+    {
+      "id": "minh-hanoi-bangkok",
+      "label": "Minh",
+      "year": 1980,
+      "transport": "train",
+      "branch": "Branche asiatique",
+      "from": { "name": "Hanoï, Vietnam", "lat": 21.0285, "lng": 105.8542 },
+      "to": { "name": "Bangkok, Thaïlande", "lat": 13.7563, "lng": 100.5018 }
+    },
+    {
+      "id": "minh-bangkok-mumbai",
+      "label": "Minh",
+      "year": 1991,
+      "transport": "avion",
+      "branch": "Branche asiatique",
+      "from": { "name": "Bangkok, Thaïlande", "lat": 13.7563, "lng": 100.5018 },
+      "to": { "name": "Mumbai, Inde", "lat": 19.076, "lng": 72.8777 }
+    },
+    {
+      "id": "minh-mumbai-nairobi",
+      "label": "Minh",
+      "year": 2008,
+      "transport": "avion",
+      "branch": "Branche asiatique",
+      "from": { "name": "Mumbai, Inde", "lat": 19.076, "lng": 72.8777 },
+      "to": { "name": "Nairobi, Kenya", "lat": -1.2921, "lng": 36.8219 }
+    }
+  ]
+}
